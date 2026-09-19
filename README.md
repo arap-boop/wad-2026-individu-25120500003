@@ -6,7 +6,7 @@ Repositori ini dibuat untuk memenuhi tugas individu pengembangan backend menggun
 Aplikasi ini menyediakan RESTful API untuk manajemen data tiket event dengan aturan validasi berikut:
 * **`kode_tiket`**: Wajib menggunakan pola format `EVT-XXXX` (di mana `XXXX` adalah 4 digit angka, contoh: `EVT-9999`).
 * **`kuota`**: Nilai integer yang wajib lebih besar dari 0 (`> 0`).
-* **`nama_event`**: Nama event yang diselenggarakan.
+* **`nama_event`**: Nama event yang diselenggarakan
 
 ---
 
